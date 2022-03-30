@@ -1,5 +1,5 @@
-/*
- * Alessandro Palladino 2022
+/* Alessandro Palladino 2022
+ * 
  * Info Assignment:
  *  1 red ledState
  *  1 potentiometer
