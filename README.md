@@ -1,4 +1,6 @@
-# IotFirstAssignment
+# Catch the bouncing led ball
+
+First assignment of Sistem Embedded & IoT
 
  Info Assignment:
   1 red ledState
